@@ -1,0 +1,3 @@
+rootProject.name = 'fastjson-boot-starter'
+include 'fastjson-spring-boot-autoconfigure'
+include 'fastjson-spring-boot-starter'
